@@ -8,3 +8,4 @@ formatName(firstName, lastName) should return the first and last name as one str
 getGreeting(timeOfDay) should return "Good morning", "Good afternoon", or "Good evening".
 
 createGreeting(firstName, lastName, timeOfDay) should use the other two functions and return the final greeting.
+Reference: https://roadmap.sh/projects/js-greeting-builder
